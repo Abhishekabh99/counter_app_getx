@@ -20,8 +20,8 @@ class Home extends StatelessWidget {
           onPressed: () => Get.to(Other()),
         ),
       ),
-      floatingActionButton:
-          FloatingActionButton(child: Icon(Icons.add), onPressed: c.increment),
+      floatingActionButton: FloatingActionButton(
+          onPressed: c.increment, child: const Icon(Icons.add)),
     );
   }
 }

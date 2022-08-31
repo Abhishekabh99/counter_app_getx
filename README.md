@@ -1,3 +1,51 @@
+Counter App Using Flutter Software Devlopment Kit
+
+
+
+
+
+
+Here is Little Demo Of Project ->
+
+
+
+
+
+![screenshot](https://user-images.githubusercontent.com/88980729/187685962-bb6413cc-b4ed-4c37-a6b0-a3710b3b7b94.gif)
+
+
+
+
+
+I Used here GetX package for {
+
+1. State Management
+2. Navigation
+
+}
+
+
+
+
+
+
+Use Flutter run or cltr + F5 on Vs Code (Windows) to run this (you can run it on emulator and borwser both if you connect your phone thats the best thing)
+
+
+
+
+
+Have Fun Fun Any Contributions Are Welcome !
+
+
+
+
+
+Connect with me on linkedin 
+https://www.linkedin.com/in/abhishek-pandey-1b7725173/
+
+
+
 # counter_app_getx
 
 A new Flutter project.

@@ -19,8 +19,8 @@ Here is Little Demo Of Project ->
 
 I Used here GetX package for {
 
-1. State Management
-2. Navigation
+1. State Management -> refer this link for why i used getX for this -> https://github.com/jonataslaw/getx/blob/master/documentation/en_US/state_management.md 
+2. Navigation -> refer this link to know more about route management in getX -> https://github.com/jonataslaw/getx/blob/master/documentation/en_US/route_management.md
 
 }
 
